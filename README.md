@@ -2,9 +2,9 @@
 
     - I am Hari Jagadeesh Iyer  
     -  a 3rd year undregraduate puruing B.E. Production Engineering . I have a passion for learning about emerging technologies and recently got attracted towards the field of Data Science . Currently I am bulding projects and learning something new everyday . 
-    -  
+      
 
--# 👀 I’m interested in
+- # 👀 I’m interested in
   - Python/C++ programming
   - Data Analysis
   - Machine Learning
